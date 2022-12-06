@@ -43,13 +43,13 @@ class MainAdapter(private val context: Context) : RecyclerView.Adapter<MainAdapt
         val currentItem=detailsofQuiz[position]
         holder.robot.setOnClickListener {
             val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager?
-            val clip = ClipData.newPlainText("user", currentItem.robotmsg)
+            val clip = ClipData.newPlainText("user2", currentItem.robotmsg)
             clipboard!!.setPrimaryClip(clip)
             Toast.makeText(context,"Copied to clip board!",Toast.LENGTH_SHORT).show()
         }
         holder.human.setOnClickListener {
             val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager?
-            val clip = ClipData.newPlainText("user", currentItem.robotmsg)
+            val clip = ClipData.newPlainText("user", currentItem.humanmsg)
             clipboard!!.setPrimaryClip(clip)
             Toast.makeText(context,"Copied to clip board!",Toast.LENGTH_SHORT).show()
         }
