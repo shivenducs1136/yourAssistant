@@ -1,6 +1,6 @@
 <p>
 
-<img src = "https://play-lh.googleusercontent.com/TiRXgD_jRm-YxTTBp0LoqqtEu93IRwZeCS_cVE4CXcUOsjDmSy33NGDuF1kbCnSvuQ=w240-h480-rw" width = "100" height = "100" align = "right"> 
+<img src = "https://github.com/shivenducs1136/yourAssistant/blob/main/botimg.jpg" width = "100" height = "100" align = "right"> 
 <h1 align="left"> yourAssitant </h2>
 	<h4 align="left"> This is a Chatbot App build using Native Android and GPT3 Api <h4>
 </p>
