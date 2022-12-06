@@ -22,7 +22,7 @@ yourAssistant app is your personal assistant chating bot which will answer all o
 
 ## Demo 
 
-<img src = "https://github.com/shivenducs1136/MyFirstMAUiAPp/blob/master/MAUI-NotesApp.gif?raw=true" width = "230">
+<img src = "https://github.com/shivenducs1136/yourAssistant/blob/main/k.gif?raw=true" width = "230">
 	
 <br>
 
