@@ -3,7 +3,7 @@
 <img src = "https://github.com/shivenducs1136/yourAssistant/blob/main/botimg.jpg" width = "100" height = "100" align = "right"> 
 <h1 align="left"> yourAssitant </h2>
 	<h4 align="left"> This is a Chatbot App build using Native Android and GPT3 Api <h4>
-	[Drive Link](https://drive.google.com/drive/folders/1x5wmihREmeSRcr4JpwKylGu8sTX1sgkL?usp=share_link)
+
 </p>
 
 
