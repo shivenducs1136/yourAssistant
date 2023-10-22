@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.bitwisor.yourassistance.fragment.MainFragment"
+        android:name="com.bitwisor07.yourassistance.fragment.MainFragment"
         android:label="MainFragment" />
 </navigation>
